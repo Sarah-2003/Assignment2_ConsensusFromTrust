@@ -68,6 +68,3 @@ The implementation has been tested against a variety of scenarios with different
 
 ## Conclusion
 The CompliantNode implementation effectively demonstrates how distributed consensus can be achieved in the presence of malicious nodes while minimizing resource consumption. This project provides a practical understanding of trust-based consensus mechanisms in distributed systems.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
